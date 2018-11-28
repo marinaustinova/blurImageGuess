@@ -1,1 +1,1 @@
-Try to guess what the blurred image is and check your guess by mouse-over the image!
+Try to guess what the blurred image is and check your guess by mouse-over the image.
